@@ -9,4 +9,4 @@ Awesome Microsoft DP-600 Exam Resources
 ## GitHub repos
 - [Implementing Analytics Solutions Using Microsoft Fabric Exam DP-600 - book code](https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide)
 - [Ndamulelo's Experience & Tips](https://github.com/ndamulelonemakh/azure-dp600-fabrics-analytics-engineer-study-guide)
-- 
+- [Practice question banks](https://github.com/azurearchitect786/dp600march1821)
