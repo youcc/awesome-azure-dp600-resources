@@ -1,4 +1,4 @@
-# awesome-azure-dp600-resources
+# Fabric Analytics Engineer Associate Exam DP-600 Resources
 Awesome Microsoft DP-600 Exam Resources
 
 ## Microsoft Official resources
@@ -10,3 +10,7 @@ Awesome Microsoft DP-600 Exam Resources
 - [Implementing Analytics Solutions Using Microsoft Fabric Exam DP-600 - book code](https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide)
 - [Ndamulelo's Experience & Tips](https://github.com/ndamulelonemakh/azure-dp600-fabrics-analytics-engineer-study-guide)
 - [Practice question banks](https://github.com/azurearchitect786/dp600march1821)
+
+
+## FAQ
+- [How to start a Microsoft Fabric Trial without using a work email address](https://www.youtube.com/watch?si=o2nq3vv_3vTSW9Sl&v=RHV7jZqc_tE&feature=youtu.be)
